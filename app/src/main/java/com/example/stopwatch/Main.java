@@ -72,7 +72,7 @@ public class Main extends AppCompatActivity {
                 timeInMilliseconds = 0L;
                 timeSwapBuff = 0L;
                 updateTime = 0L;
-                tvTimer.setText("00:00:00");
+                tvTimer.setText("00:00:00:000");
             }
         });
     }
