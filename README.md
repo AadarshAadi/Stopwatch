@@ -24,8 +24,8 @@ This is a simple stopwatch app built using Android Studio. The app allows users 
    git clone https://github.com/AadarshAadi/Stopwatch.git
 
 2. Start Android Studio.
- - Click on File -> Open and select the cloned project directory.
+   - Click on File -> Open and select the cloned project directory.
    Build and Run the project:
 
 3. Connect your Android device or start an emulator.
- - Click the Run button in Android Studio.
+   - Click the Run button in Android Studio.
